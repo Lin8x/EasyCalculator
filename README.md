@@ -1,6 +1,6 @@
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
-<img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorbanner.png" width="100%" height="200">
+<img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorbanner.png" width="100%" height="300">
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
@@ -33,6 +33,13 @@ You can read both the Terms & Conditions and Privacy Policy [here](https://docs.
 
 ## <p align="center"> ![download logo](https://raw.githubusercontent.com/asian-code/artem-mail/master/images/howtoinstallimage.png) &nbsp; How to Install &nbsp; ![download logo](https://raw.githubusercontent.com/asian-code/artem-mail/master/images/howtoinstallimage.png) </p>
 
+**There are two manual methods to installing this app:**
+
+1. Download the APK file
+- Through [Github]()
+- Through [APK Mirror]()
+
+2. Download the AAB file from [Github]().
 Read [this guide](https://beebom.com/how-install-android-app-bundles/) to help you understand how to download App Bundles on your Android device
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
