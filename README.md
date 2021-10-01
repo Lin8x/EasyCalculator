@@ -41,8 +41,8 @@ You can read both the Terms & Conditions and Privacy Policy [here](https://docs.
 - Through [Github]()
 - Through [APK Mirror]()
 <br><br>
-2. Download the AAB file).
-- Through [Github]()
+2. Download the AAB file.
+- Through [Github]()<br>
 Read [this guide](https://beebom.com/how-install-android-app-bundles/) to help you understand how to download App Bundles on your Android device
 <br>
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
