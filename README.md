@@ -22,7 +22,7 @@ You can read both the Terms & Conditions and Privacy Policy [here](https://docs.
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
-### <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.png" alt="requirements" width="20" height="20"> &nbsp; Requirements &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.png" alt="requirements" width="20" height="20"> </p>
+### <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.png" alt="requirements" width="30" height="20"> &nbsp; Requirements &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.png" alt="requirements" width="30" height="20"> </p>
 
 - Android 8.0+
 - Pixel Phone / Phone of dimensions below*
