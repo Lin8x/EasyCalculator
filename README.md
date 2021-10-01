@@ -19,7 +19,7 @@ Find the open scource code files [here](https://github.com/Lin8x/EasyCalculator/
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
 ### <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="25" height="25"> &nbsp; Terms & Conditions / Privacy Policy &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="25" height="25"> </p>
-<br><br>
+<br>
 You can read both the Terms & Conditions and Privacy Policy [here](https://docs.google.com/document/d/11D7HiIAJXNhfHMmIHwLhFboaD8rDx3lH35BqUKnZmLU/edit?usp=sharing).
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
