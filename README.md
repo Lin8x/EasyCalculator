@@ -1,30 +1,29 @@
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
-<img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorbanner.png" width="100%" height="100">
+<img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorbanner.png" width="100%" height="200">
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
 # <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorlogo.png" alt="logo" width="20" height="20"> &nbsp; Easy Calculator &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorlogo.png" alt="logo" width="20" height="20"> </p>
 
-My First Android App
-A very simple calculator for very simple people!
+<img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
+
+## <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="20" height="20"> &nbsp; About Easy Calculator &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="20" height="20"> </p>
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
-## <p align="center"> <img src="https://raw.githubusercontent.com/asian-code/artem-mail/master/images/artemmaillogo.png" alt="artemmail" width="20" height="20"> &nbsp; About Easy Calculator &nbsp; <img src="https://raw.githubusercontent.com/asian-code/artem-mail/master/images/artemmaillogo.png" alt="artemmail" width="20" height="20"> </p>
+## <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="20" height="20"> &nbsp; Terms & Conditions / Privacy Policy &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="20" height="20"> </p>
+
+You can read both the Terms & Conditions and Privacy Policy [here](https://docs.google.com/document/d/11D7HiIAJXNhfHMmIHwLhFboaD8rDx3lH35BqUKnZmLU/edit?usp=sharing).
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
-## <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorlogo.png" alt="logo" width="20" height="20"> &nbsp; Terms & Conditions / Privacy Policy &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorlogo.png" alt="logo" width="20" height="20"> </p>
-
-<img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
-
-## <p align="center"> <img src="https://raw.githubusercontent.com/asian-code/artem-mail/master/images/requirementslogo.png" alt="requirements"> &nbsp; Requirements &nbsp; <img src="https://raw.githubusercontent.com/asian-code/artem-mail/master/images/requirementslogo.png" alt="requirements" width="20" height="20"> </p>
+## <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.png" alt="requirements"> &nbsp; Requirements &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.pngg" alt="requirements" width="20" height="20"> </p>
 
 - Android 8.0+
-- Pixel Phone / Phone of dimensions below
+- Pixel Phone / Phone of dimensions below*
 
-<p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/pixeldimensions.png" alt="logo"> </p>
+<p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/pixeldimensions.png" width="400" height="200" alt="pixeldimensions"> </p>
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
