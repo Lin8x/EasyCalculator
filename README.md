@@ -10,9 +10,9 @@
 
 ## <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="20" height="20"> &nbsp; About Easy Calculator &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="20" height="20"> </p>
 
-This was made as my first android app project. 
-It is a simple calculator and it can do very basic functions.
-It was made with [Kotlin](https://kotlinlang.org/) and [Android Studio](https://developer.android.com/studio/)
+This was made as my first android app project.<br> 
+It is a simple calculator and it can do very basic functions.<br>
+It was made with [Kotlin](https://kotlinlang.org/) and [Android Studio](https://developer.android.com/studio/)<br>
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
