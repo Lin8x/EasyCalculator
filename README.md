@@ -8,7 +8,7 @@
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
-### <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="25" height="25"> &nbsp; About Easy Calculator &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="25" height="25"> </p>
+### <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="20" height="20"> &nbsp; About Easy Calculator &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="20" height="20"> </p>
 
 This was made as my first android app project.<br> 
 It is a simple calculator and it can do very basic functions.<br>
@@ -25,7 +25,7 @@ You can read both the Terms & Conditions and Privacy Policy [here](https://docs.
 ### <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.png" alt="requirements" width="30" height="20"> &nbsp; Requirements &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.png" alt="requirements" width="30" height="20"> </p>
 
 - Android 8.0+
-- Pixel Phone / Phone of dimensions below*
+- Pixel Phone / Phone around the dimensions below
 
 <br>
 
