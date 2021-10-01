@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
-# <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorlogo.png" alt="logo" width="20" height="20"> &nbsp; Easy Calculator &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorlogo.png" alt="logo" width="20" height="20"> </p>
+# <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorlogo.png" alt="logo" width="40" height="40"> &nbsp; Easy Calculator &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorlogo.png" alt="logo" width="40" height="40"> </p>
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
@@ -16,7 +16,7 @@ It was made with [Kotlin](https://kotlinlang.org/) and [Android Studio](https://
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
-### <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="20" height="20"> &nbsp; Terms & Conditions / Privacy Policy &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="20" height="20"> </p>
+### <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="30" height="30"> &nbsp; Terms & Conditions / Privacy Policy &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="30" height="30"> </p>
 
 You can read both the Terms & Conditions and Privacy Policy [here](https://docs.google.com/document/d/11D7HiIAJXNhfHMmIHwLhFboaD8rDx3lH35BqUKnZmLU/edit?usp=sharing).
 
