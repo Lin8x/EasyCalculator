@@ -14,7 +14,7 @@ This was made as my first android app project.<br>
 It is a simple calculator and it can do very basic functions.<br>
 It was made with [Kotlin](https://kotlinlang.org/) and [Android Studio](https://developer.android.com/studio/)<br>
 
-Find our open scource code files [here](https://github.com/Lin8x/EasyCalculator/find/main)!
+Find the open scource code files [here](https://github.com/Lin8x/EasyCalculator/find/main)!
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
