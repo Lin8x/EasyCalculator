@@ -23,6 +23,8 @@ Find the open scource code files [here](https://github.com/Lin8x/EasyCalculator/
 
 You can read both the Terms & Conditions and Privacy Policy [here](https://docs.google.com/document/d/11D7HiIAJXNhfHMmIHwLhFboaD8rDx3lH35BqUKnZmLU/edit?usp=sharing).
 
+<br>
+
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
 ### <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.png" alt="requirements" width="30" height="20"> &nbsp; Requirements &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.png" alt="requirements" width="30" height="20"> </p>
