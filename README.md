@@ -40,11 +40,11 @@ You can read both the Terms & Conditions and Privacy Policy [here](https://docs.
 **There are two manual methods to installing this app:**
 <br><br>
 1. Download the APK file
-- Through [Github]()
-- Through [APK Mirror]()
+- Through [Github](https://github.com/Lin8x/EasyCalculator/raw/main/releases/easycalculator.apk)
+- Through [APK Mirror]() (NOT FINISHED)
 <br><br>
 2. Download the AAB file.
-- Through [Github]()<br><br>
+- Through [Github](https://github.com/Lin8x/EasyCalculator/raw/main/releases/easycalculator.aab)<br><br>
 (Read [this guide](https://beebom.com/how-install-android-app-bundles/) to help you understand how to download App Bundles on your Android device)
 <br>
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
