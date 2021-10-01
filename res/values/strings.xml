@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Easy Calc</string>
+    <string name="button0">0</string>
+    <string name="button1">1</string>
+    <string name="button2">2</string>
+    <string name="button3">3</string>
+    <string name="button4">4</string>
+    <string name="button5">5</string>
+    <string name="button6">6</string>
+    <string name="button7">7</string>
+    <string name="button8">8</string>
+    <string name="button9">9</string>
+    <string name="buttondot">.</string>
+    <string name="buttondivide">/</string>
+    <string name="buttonmultiply">x</string>
+    <string name="buttonplus">+</string>
+    <string name="buttonminus">-</string>
+    <string name="buttonequal">=</string>
+    <string name="buttonclear">CLR</string>
+    <string name="buttondelete">DEL</string>
+    <string name="buttonleft">L</string>
+    <string name="buttonright">R</string>
+    <string name="titlethe">The</string>
+    <string name="titleeasy">Easy</string>
+    <string name="titlecalculator">Calculator</string>
+</resources>
