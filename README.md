@@ -10,6 +10,10 @@
 
 ## <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="20" height="20"> &nbsp; About Easy Calculator &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="20" height="20"> </p>
 
+This was made as my first android app project. 
+It is a simple calculator and it can do very basic functions.
+It was made with [Kotlin](https://kotlinlang.org/) and [Android Studio](https://developer.android.com/studio/)
+
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
 ## <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="20" height="20"> &nbsp; Terms & Conditions / Privacy Policy &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="20" height="20"> </p>
@@ -18,7 +22,7 @@ You can read both the Terms & Conditions and Privacy Policy [here](https://docs.
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
-## <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.png" alt="requirements"> &nbsp; Requirements &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.pngg" alt="requirements" width="20" height="20"> </p>
+## <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.png" alt="requirements" width="20" height="20"> &nbsp; Requirements &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/androidheadlogo.png" alt="requirements" width="20" height="20"> </p>
 
 - Android 8.0+
 - Pixel Phone / Phone of dimensions below*
