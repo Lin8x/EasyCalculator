@@ -1,6 +1,6 @@
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorbanner.png" width="100%" height="5">
 
-<img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorbanner.png" width="100%" height="30">
+<img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorbanner.png" width="100%" height="50">
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorbanner.png" width="100%" height="5">
 
