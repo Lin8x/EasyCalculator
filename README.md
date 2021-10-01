@@ -27,7 +27,7 @@ You can read both the Terms & Conditions and Privacy Policy [here](https://docs.
 - Android 8.0+
 - Pixel Phone / Phone of dimensions below*
 
-<br><br>
+<br>
 
 <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/pixeldimensions.png" width="400" height="200" alt="pixeldimensions"> </p>
 
