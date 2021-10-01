@@ -8,7 +8,7 @@
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
-### <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="20" height="20"> &nbsp; About Easy Calculator &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="20" height="20"> </p>
+### <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="25" height="25"> &nbsp; About Easy Calculator &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/informationlogo.png" alt="info" width="25" height="25"> </p>
 
 This was made as my first android app project.<br> 
 It is a simple calculator and it can do very basic functions.<br>
@@ -16,7 +16,7 @@ It was made with [Kotlin](https://kotlinlang.org/) and [Android Studio](https://
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
-### <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="30" height="30"> &nbsp; Terms & Conditions / Privacy Policy &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="30" height="30"> </p>
+### <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="25" height="25"> &nbsp; Terms & Conditions / Privacy Policy &nbsp; <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/docslogo.png" alt="logo" width="25" height="25"> </p>
 
 You can read both the Terms & Conditions and Privacy Policy [here](https://docs.google.com/document/d/11D7HiIAJXNhfHMmIHwLhFboaD8rDx3lH35BqUKnZmLU/edit?usp=sharing).
 
