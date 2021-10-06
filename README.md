@@ -51,9 +51,11 @@ You can read both the Terms & Conditions and Privacy Policy [here](https://docs.
 
 **There are two manual methods to installing this app:**
 <br><br>
+This app is Published on these Appstores: [Google Play Store](https://play.google.com/store/apps/details?id=com.daneasycalculator.easycalculator), [APK Pure](https://apkpure.com/group/com.daneasycalculator.easycalculator)
+<br><br>
 1. Download the APK file
 - Through [Github](https://github.com/Lin8x/EasyCalculator/raw/main/releases/easycalculator.apk)
-- Through [APK Mirror]() (NOT FINISHED)
+- Through [APK Pure](https://apkpure.com/group/com.daneasycalculator.easycalculator)
 <br><br>
 2. Download the AAB file.
 - Through [Google's Play Store](https://play.google.com/store/apps/details?id=com.daneasycalculator.easycalculator)
@@ -61,7 +63,9 @@ You can read both the Terms & Conditions and Privacy Policy [here](https://docs.
 (Read [this guide](https://beebom.com/how-install-android-app-bundles/) to help you understand how to download App Bundles on your Android device)
 <br>
 
-<p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/EasyCalculatorGooglePlay.PNG" alt="googleplaycomputer" width="40%" height="40%"> </p>
+<p align="center"> 
+  <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/EasyCalculatorGooglePlay.PNG" alt="googleplaycomputer" width="40%" height="40%"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorapkpure.PNG" alt="googleplaycomputer" width="40%" height="40%">
+</p>
 
 <br>
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
