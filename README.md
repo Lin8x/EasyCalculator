@@ -51,7 +51,7 @@ You can read both the Terms & Conditions and Privacy Policy [here](https://docs.
 
 **There are two manual methods to installing this app:**
 <br><br>
-This app is published on these Appstores: [Google Play Store](https://play.google.com/store/apps/details?id=com.daneasycalculator.easycalculator), [APK Pure](https://apkpure.com/group/com.daneasycalculator.easycalculator)
+This app is published on these official app stores: [Google Play Store](https://play.google.com/store/apps/details?id=com.daneasycalculator.easycalculator), [APK Pure](https://apkpure.com/group/com.daneasycalculator.easycalculator)
 <br><br>
 1. Download the APK file
 - Through [Github](https://github.com/Lin8x/EasyCalculator/raw/main/releases/easycalculator.apk)
