@@ -14,16 +14,16 @@ This was made as my first android app project.<br>
 It is a simple calculator and it can do very basic functions.<br>
 It was made with [Kotlin](https://kotlinlang.org/) and [Android Studio](https://developer.android.com/studio/)<br>
 
+Find the open scource code files [here](https://github.com/Lin8x/EasyCalculator/find/main)!
+
 <p align="center"> 
   <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/EasyCalculatorGooglePlayMobile.png" alt="googleplaymobile" width="20" height="20"> 
   <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorscreenshot1.png" alt="screenshot1" width="20" height="20"> 
   <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorscreenshot2.png" alt="screenshot2" width="20" height="20"> 
-  <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorscreenshot3.png" alt="3" width="20" height="20"> 
+  <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorscreenshot3.png" alt="3" width="40%" height="40%"> 
   <br>
   <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/EasyCalculatorGooglePlay.PNG" alt="googleplaycomputer" width="20" height="20"> 
 </p>
-
-Find the open scource code files [here](https://github.com/Lin8x/EasyCalculator/find/main)!
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
