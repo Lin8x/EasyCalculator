@@ -21,8 +21,6 @@ Find the open scource code files [here](https://github.com/Lin8x/EasyCalculator/
   <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorscreenshot1.png" alt="screenshot1" width="20%" height="20%"> 
   <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorscreenshot2.png" alt="screenshot2" width="20%" height="20%"> 
   <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorscreenshot3.png" alt="3" width="20%" height="20%"> 
-  <br>
-  <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/EasyCalculatorGooglePlay.PNG" alt="googleplaycomputer" width="20%" height="20%"> 
 </p>
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
@@ -59,5 +57,8 @@ You can read both the Terms & Conditions and Privacy Policy [here](https://docs.
 - Through [Google's Play Store](https://play.google.com/store/apps/details?id=com.daneasycalculator.easycalculator)
 - Through [Github](https://github.com/Lin8x/EasyCalculator/raw/main/releases/easycalculator.aab)<br><br>
 (Read [this guide](https://beebom.com/how-install-android-app-bundles/) to help you understand how to download App Bundles on your Android device)
+
+<p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/EasyCalculatorGooglePlay.PNG" alt="googleplaycomputer" width="40%" height="40%"> </p>
+
 <br>
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
