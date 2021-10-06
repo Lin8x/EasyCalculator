@@ -17,7 +17,7 @@ It was made with [Kotlin](https://kotlinlang.org/) and [Android Studio](https://
 Find the open scource code files [here](https://github.com/Lin8x/EasyCalculator/find/main)!
 
 <p align="center"> 
-  <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/EasyCalculatorGooglePlayMobile.png" alt="googleplaymobile" width="20%" height="20%"> 
+  <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/EasyCalculatorGooglePlayMobile.png" alt="googleplaymobile" width="30%" height="20%"> 
   <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorscreenshot1.png" alt="screenshot1" width="20%" height="20%"> 
   <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorscreenshot2.png" alt="screenshot2" width="20%" height="20%"> 
   <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorscreenshot3.png" alt="3" width="20%" height="20%"> 
