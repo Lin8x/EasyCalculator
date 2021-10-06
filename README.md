@@ -23,6 +23,7 @@ Find the open scource code files [here](https://github.com/Lin8x/EasyCalculator/
   <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorscreenshot2.png" alt="screenshot2" width="20%" height="20%"> 
   <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorscreenshot3.png" alt="3" width="20%" height="20%"> 
 </p>
+<br>
 
 <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/orangebackground.jpg" width="100%" height="5">
 
