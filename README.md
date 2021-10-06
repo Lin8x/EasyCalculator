@@ -57,6 +57,7 @@ You can read both the Terms & Conditions and Privacy Policy [here](https://docs.
 - Through [Google's Play Store](https://play.google.com/store/apps/details?id=com.daneasycalculator.easycalculator)
 - Through [Github](https://github.com/Lin8x/EasyCalculator/raw/main/releases/easycalculator.aab)<br><br>
 (Read [this guide](https://beebom.com/how-install-android-app-bundles/) to help you understand how to download App Bundles on your Android device)
+<br>
 
 <p align="center"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/EasyCalculatorGooglePlay.PNG" alt="googleplaycomputer" width="40%" height="40%"> </p>
 
