@@ -64,7 +64,7 @@ This app is Published on these Appstores: [Google Play Store](https://play.googl
 <br>
 
 <p align="center"> 
-  <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/EasyCalculatorGooglePlay.PNG" alt="googleplaycomputer" width="40%" height="40%"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorapkpure.PNG" alt="googleplaycomputer" width="40%" height="40%">
+  <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/EasyCalculatorGooglePlay.PNG" alt="googleplaycomputer" width="40%" height="40%"> <img src="https://github.com/Lin8x/EasyCalculator/blob/main/images/easycalculatorapkpure.PNG" alt="googleplaycomputer" width="60%" height="40%">
 </p>
 
 <br>
