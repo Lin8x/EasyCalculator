@@ -47,6 +47,7 @@ You can read both the Terms & Conditions and Privacy Policy [here](https://docs.
 - Through [APK Mirror]() (NOT FINISHED)
 <br><br>
 2. Download the AAB file.
+- Through [Google's Play Store](https://play.google.com/store/apps/details?id=com.daneasycalculator.easycalculator)
 - Through [Github](https://github.com/Lin8x/EasyCalculator/raw/main/releases/easycalculator.aab)<br><br>
 (Read [this guide](https://beebom.com/how-install-android-app-bundles/) to help you understand how to download App Bundles on your Android device)
 <br>
